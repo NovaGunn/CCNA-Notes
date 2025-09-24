@@ -1,5 +1,7 @@
 # CCNA Notes
 
+I atribute my notes to Jeremy's IT lab
+
 Welcome to the **CCNA Notes** repository. This collection includes comprehensive notes, explanations, subnetting examples, command references, and lab exercises for Cisco's CCNA certification.
 
 ---
